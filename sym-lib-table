@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TJA1441AT")(type "Legacy")(uri "${KIPRJMOD}/LIB_TJA1441AT/TJA1441AT/KiCad/TJA1441AT.lib")(options "")(descr ""))
+  (lib (name "y-robo")(type "KiCad")(uri "${KIPRJMOD}/LIB_y-robo/y-robo.kicad_sym")(options "")(descr ""))
+  (lib (name "2025-09-24_17-07-21")(type "KiCad")(uri "${KIPRJMOD}/ul_BU33SD5WG-TR/KiCADv6/2025-09-24_17-07-21.kicad_sym")(options "")(descr ""))
+  (lib (name "2025-09-24_17-23-00")(type "KiCad")(uri "${KIPRJMOD}/SM02B_GHS_TB/KiCADv6/2025-09-24_17-23-00.kicad_sym")(options "")(descr ""))
+)

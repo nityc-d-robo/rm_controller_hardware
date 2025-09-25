@@ -1,0 +1,18 @@
+.TJA1441AT :1 ;ISO 11898-2:2016, SAE J2284-1 to SAE J2284-5 and SAE J1939-14 compliant  Standard CAN and CAN FD data bit rates up to 5 Mbit/s  Low Electromagnetic Emission (EME) and high Electromagnetic Immunity (EMI)  Qualified according to AEC-Q100 Grade 1  Silent mode for node diagnosis and failure containment  TJA1441A only: VIO input for interfacing with 3.3 V to 5 V microcontrollers  TJA1441D only: dedicated input for switching to very low-current Off mode and disengaging from the bus  All variants are avail
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="TXD" 2="GND" 3="VCC" 4="RXD" 5="VIO" 6="CANL" 7="CANH" 8="S"
+*MXP 8
+*DFN TJA1441AT
+~!Manufacturer_Name (NXP)
+~!Manufacturer_Part_Number (TJA1441AT)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.nxp.com/docs/en/data-sheet/TJA1441.pdf)
+~!Height (1.75mm)
+~!3D_Model (TJA1441AT)
+TJA1441AT
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 
