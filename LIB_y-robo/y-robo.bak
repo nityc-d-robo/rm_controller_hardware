@@ -140,7 +140,7 @@
 						)
 					)
 				)
-				(number "1"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -265,9 +265,9 @@
 				)
 			)
 			(arc
-				(start 2.54 -0.889)
-				(mid 2.54 -0.889)
-				(end 2.54 -1.651)
+				(start 2.54 -1.651)
+				(mid 2.159 -1.27)
+				(end 2.54 -0.889)
 				(stroke
 					(width 0)
 					(type solid)
@@ -286,7 +286,7 @@
 						)
 					)
 				)
-				(number "1"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -304,7 +304,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
